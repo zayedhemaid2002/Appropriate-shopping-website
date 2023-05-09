@@ -26,5 +26,18 @@ In supermarket 2:
 In supermarket 3:
 
 6 * 4.25 + 12 * 1.50 + 1 * 7 = 50.50
-![Uploading image.png…]()
 
+![image](https://github.com/zayedhemaid2002/Appropriate-shopping-website/assets/126354536/bfcedc5b-dfdb-433c-9412-5761fb123098)
+
+The price will person 1 spent in the supermarket 1 will be (element r11),
+in the supermarket 2 will be (element r12) And supermarket 3 will be (element r13)
+Note its poitrinal for the first person to buy in supermarket 1,
+For the second person in supermarket 3 and for the third person in supermarket 1
+
+# The pros for using linear system on the project:
+    1.save time while searching on the best price.
+    2. save money
+    3.we can use this idea with every smellier idea like clothes shop, food, and Transportation office.
+    4. Flexibility by using this project for different idea.
+    5. satisfy the various needs for the user.
+    6. Increased customer satisfaction.
