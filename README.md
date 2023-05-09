@@ -35,9 +35,9 @@ Note its poitrinal for the first person to buy in supermarket 1,
 For the second person in supermarket 3 and for the third person in supermarket 1
 
 # The pros for using linear system on the project:
-    1. save time while searching on the best price.
-    2.  save money
-    3. we can use this idea with every smellier idea like clothes shop, food, and Transportation office.
-    4.  Flexibility by using this project for different idea.
-    5.  satisfy the various needs for the user.
-    6.  Increased customer satisfaction.
+  1. save time while searching on the best price.
+  2.  save money
+  3.  we can use this idea with every smellier idea like clothes shop, food, and Transportation office.
+  4.  Flexibility by using this project for different idea.
+  5.  satisfy the various needs for the user.
+  6.  Increased customer satisfaction.
