@@ -12,3 +12,6 @@ In this Project I provide a real-world example displaying the power of the linea
   intend to buy some rice, sweets and bread. Each of them needs these products in
   different price and can buy them from three Supermarkets, so which supermarket
   will be the best choice for every one of them to buy with less price!
+
+
+![image](https://github.com/zayedhemaid2002/Appropriate-shopping-website/assets/126354536/7c48fe0d-8383-48e1-b8ee-334b004da71c)
