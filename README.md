@@ -12,5 +12,19 @@ In this Project I provide a real-world example displaying the power of the linea
   intend to buy some rice, sweets and bread. Each of them needs these products in
   different price and can buy them from three Supermarkets, so which supermarket
   will be the best choice for every one of them to buy with less price!
-Let P: Product And S: Supermarket cost
-P1*S1 + P2*S1+P3*S1 = total cost
+  
+![image](https://github.com/zayedhemaid2002/Appropriate-shopping-website/assets/126354536/1a5a146d-66dd-44cd-9daa-415a4e344fa8)
+For example, if person 1 will buy
+in supermarket 1:
+
+6 * 5 + 12 * 1 + 1 * 7.50 = 49.50
+
+In supermarket 2:
+
+6 * 4.50 + 12 * 1.25 + 1 * 8 = 50.0
+
+In supermarket 3:
+
+6 * 4.25 + 12 * 1.50 + 1 * 7 = 50.50
+![Uploading image.png…]()
+
